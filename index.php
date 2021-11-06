@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">
-                    <img class="img-responsive" loading="lazy" src="assets/images/3.jpeg" srcset_placeholder="media/555/3.jpeg  1024w, media/555/3.jpeg 640w, media/225/3.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/images/3.jpeg" srcset_placeholder="media/555/3.jpeg  1024w, media/555/3.jpeg 640w, media/225/3.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">Project Title</a>
@@ -98,7 +98,7 @@
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/1VYdx37vOGQ">
-                    <img class="img-responsive" loading="lazy" src="assets/images/4.jpeg" srcset_placeholder="media/555/4.jpeg  1024w, media/555/4.jpeg 640w, media/225/4.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/images/4.jpeg" srcset_placeholder="media/555/4.jpeg  1024w, media/555/4.jpeg 640w, media/225/4.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/1VYdx37vOGQ">Project Title</a>
