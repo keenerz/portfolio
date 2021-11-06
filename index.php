@@ -64,7 +64,7 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/SYx3UCHZJlo">
-                    <img class="img-responsive" src="assets/images/1.jpeg" srcset="media/555/1.jpeg  1024w, media/555/1.jpeg 640w, media/225/1.jpeg  320w" width="555" height="370">
+                    <img class="img-responsive" src="assets/images/1.jpeg" srcset="assets/images/1.jpeg  1024w, media/555/1.jpeg 640w, media/225/1.jpeg  320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/SYx3UCHZJlo">Project Title</a>
