@@ -64,7 +64,7 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/SYx3UCHZJlo">
-                    <img class="img-responsive" loading="lazy" data-src="assets/images/1.jpeg" srcset_placeholder="media/555/1.jpeg  1024w, media/555/1.jpeg 640w, media/225/1.jpeg  320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" data-src="assets/images/1.jpeg" srcset_placeholder="media/555/1.jpeg  1024w, media/555/1.jpeg 640w, media/225/1.jpeg  320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/SYx3UCHZJlo">Project Title</a>
@@ -74,7 +74,7 @@
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/o_rKNRoNz8s">
-                    <img class="img-responsive" loading="lazy" data-src="assets/images/2.jpeg" srcset_placeholder="media/555/2.jpeg  1024w, media/555/2.jpeg 640w, media/225/2.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" data-src="assets/images/2.jpeg" srcset_placeholder="media/555/2.jpeg  1024w, media/555/2.jpeg 640w, media/225/2.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/o_rKNRoNz8s">Project Title</a>
