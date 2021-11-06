@@ -6,9 +6,7 @@
     <title>Portfolio</title>
     <link rel="shortcut icon" href="#">
     <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/bootstrap.css" rel="preload" as="style" onload="this.rel='stylesheet'">
-    <link href="assets/css/style.css" rel="alternate stylesheet" type="text/css">
-    <link href="assets/css/style.css" rel="preload" as="style" onload="this.rel='stylesheet'">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body class="vsc-initialized">
