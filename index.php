@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Portfolio</title>
-    <link rel="shortcut icon" href="#">
+    <link rel="shortcut icon" href="/">
     <link href="/assets/css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="/assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
@@ -22,7 +22,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="/">
                     Portfolio
                 </a>
             </div>
@@ -30,15 +30,15 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">Recent</a>
+                        <a href="/">Recent</a>
                     </li>
                     <li>
-                        <a href="#">Upload</a>
+                        <a href="/">Upload</a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="/">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -60,20 +60,20 @@
 
         <div class="row">
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/SYx3UCHZJlo">
+                <a href="/">
                     <img class="img-responsive" loading="eager" src="assets/img/SYx3UCHZJlo.jpeg" srcset_placeholder="media/555/SYx3UCHZJlo.jpeg  1024w, media/555/SYx3UCHZJlo.jpeg 640w, media/225/SYx3UCHZJlo.jpeg  320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/SYx3UCHZJlo">Santa Monica, United States</a>
+                    <a href="/">Santa Monica, United States</a>
                 </h3>
                 <p>Located just west of Downtown Los Angeles, Santa Monica beach is an iconic example of the famed Southern California beaches. With few Los Angeles beach options offering both large expanses of beach, bike trails and nearby activities, Santa Monica Beach has exactly what you're looking for.</p>
             </div>
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/o_rKNRoNz8s">
+                <a href="/">
                     <img class="img-responsive" loading="eager" src="assets/img/o_rKNRoNz8s.jpeg" srcset_placeholder="media/555/o_rKNRoNz8s.jpeg  1024w, media/555/o_rKNRoNz8s.jpeg 640w, media/225/o_rKNRoNz8s.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/o_rKNRoNz8s">South Coast, Australia</a>
+                    <a href="/">South Coast, Australia</a>
                 </h3>
                 <p>Stretching from Stanwell Park in the north to Bittangabee Bay in the south, the wild and wonderful southern shoreline delivers glittering ocean, dramatic rock formations and some of the whitest sands in the world. The entire length is part of the legendary Sydney to Melbourne Coastal Drive, but starting from Sydney you're on the jaw-dropping Grand Pacific Drive for 140km.</p>
             </div>
@@ -82,20 +82,20 @@
 
         <div class="row">
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">
+                <a href="/">
                     <img class="img-responsive" loading="eager" src="assets/img/MS7KD9Ti7FQ.jpeg" srcset_placeholder="media/555/MS7KD9Ti7FQ.jpeg  1024w, media/555/MS7KD9Ti7FQ.jpeg 640w, media/225/MS7KD9Ti7FQ.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">Bali, Indonesia</a>
+                    <a href="/">Bali, Indonesia</a>
                 </h3>
                 <p>The beach of Legian stretches 2 km, starting from the northernmost point of Kuta Beach. It's quite challenging to define the borders of these beaches, and they both offer very similar activities like surfing, partying, and shopping.</p>
             </div>
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/1VYdx37vOGQ">
+                <a href="/">
                     <img class="img-responsive" loading="eager" src="assets/img/1VYdx37vOGQ.jpeg" srcset_placeholder="media/555/1VYdx37vOGQ.jpeg  1024w, media/555/1VYdx37vOGQ.jpeg 640w, media/225/1VYdx37vOGQ.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/1VYdx37vOGQ">Nova Scotia, Canada</a>
+                    <a href="/">Nova Scotia, Canada</a>
                 </h3>
                 <p>Martinique Beach Provincial Park is the longest sandy beach in Nova Scotia. Visitors can enjoy this 5-km crescent white-sand beach, with its open and wooded picnic areas located behind sand dunes. The beach is supervised during the months of July and August; change houses are available.</p>
             </div>
@@ -103,20 +103,20 @@
 
         <div class="row">
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/7yqyQQXgOT8">
+                <a href="/">
                     <img class="img-responsive" loading="lazy" src="assets/img/7yqyQQXgOT8.jpeg" srcset_placeholder="media/555/7yqyQQXgOT8.jpeg  1024w, media/555/7yqyQQXgOT8.jpeg 640w, media/225/7yqyQQXgOT8.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/7yqyQQXgOT8">Luzon, Philippines</a>
+                    <a href="/">Luzon, Philippines</a>
                 </h3>
                 <p>Saud Beach is more popularly known as "Pagudpud Beach." The picturesque 2-kilometer white sand beach is often featured in travel photos of Ilocos Norte, and is known for its pristine waters and beautiful coast lined with coconut palms.</p>
             </div>
             <div class="col-md-6 portfolio-item">
-                <a href="https://unsplash.com/photos/PfK35Iw1JAo">
+                <a href="/">
                     <img class="img-responsive" loading="lazy" src="assets/img/PfK35Iw1JAo.jpeg" srcset_placeholder="media/555/PfK35Iw1JAo.jpeg  1024w, media/555/PfK35Iw1JAo.jpeg 640w, media/225/PfK35Iw1JAo.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/PfK35Iw1JAo">Cap de Ses Salines, Spain</a>
+                    <a href="/">Cap de Ses Salines, Spain</a>
                 </h3>
                 <p>The Cap de Ses Salines is the southernmost point on Mallorca. When the weather is good, you can see the almost uninhabited island of Cabrera, which neighbours Mallorca to the south. There is also an attractive lighthouse present, which you can reach either by car or bicycle.</p>
             </div>
@@ -157,25 +157,25 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 footer-blurb-item">
-                        <img class="img-circle" loading="lazy" src="assets/images/tNCH0sKSZbA.jpeg" srcset_placeholder="media/100/tNCH0sKSZbA.jpeg  1024w, media/100/tNCH0sKSZbA.jpeg 640w, media/100/tNCH0sKSZbA.jpeg 320w" width="100" height="100">
+                        <img class="img-circle" loading="lazy" src="assets/img/tNCH0sKSZbA.jpeg" srcset_placeholder="media/100/tNCH0sKSZbA.jpeg  1024w, media/100/tNCH0sKSZbA.jpeg 640w, media/100/tNCH0sKSZbA.jpeg 320w" width="100" height="100">
                         <h3>My Stuff</h3>
                         <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were
                             multiply so sixth gathering fifth that man fowl made.</p>
-                        <p><a class="btn btn-primary" href="https://unsplash.com/photos/tNCH0sKSZbA">More Stuff</a></p>
+                        <p><a class="btn btn-primary" href="/">More Stuff</a></p>
                     </div>
                     <div class="col-sm-4 footer-blurb-item">
-                        <img class="img-circle" loading="lazy" src="assets/images/vkdOhd_oYic.jpeg" srcset_placeholder="media/100/vkdOhd_oYic.jpeg  1024w, media/100/vkdOhd_oYic.jpeg 640w, media/100/vkdOhd_oYic.jpeg 320w" width="100" height="100">
+                        <img class="img-circle" loading="lazy" src="assets/img/vkdOhd_oYic.jpeg" srcset_placeholder="media/100/vkdOhd_oYic.jpeg  1024w, media/100/vkdOhd_oYic.jpeg 640w, media/100/vkdOhd_oYic.jpeg 320w" width="100" height="100">
                         <h3>Your Stuff</h3>
                         <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were
                             multiply so sixth gathering fifth that man fowl made.</p>
-                        <p><a class="btn btn-primary" href="https://unsplash.com/photos/vkdOhd_oYic">More Stuff</a></p>
+                        <p><a class="btn btn-primary" href="/">More Stuff</a></p>
                     </div>
                     <div class="col-sm-4 footer-blurb-item">
-                        <img class="img-circle" loading="lazy" src="assets/images/VF4SWxE-MRw.jpeg" srcset_placeholder="media/100/VF4SWxE-MRw.jpeg  1024w, media/100/VF4SWxE-MRw.jpeg 640w, media/100/VF4SWxE-MRw.jpeg 320w" width="100" height="100">
+                        <img class="img-circle" loading="lazy" src="assets/img/VF4SWxE-MRw.jpeg" srcset_placeholder="media/100/VF4SWxE-MRw.jpeg  1024w, media/100/VF4SWxE-MRw.jpeg 640w, media/100/VF4SWxE-MRw.jpeg 320w" width="100" height="100">
                         <h3>Our Stuff</h3>
                         <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were
                             multiply so sixth gathering fifth that man fowl made.</p>
-                        <p><a class="btn btn-primary" href="https://unsplash.com/photos/VF4SWxE-MRw">More Stuff</a></p>
+                        <p><a class="btn btn-primary" href="/">More Stuff</a></p>
                     </div>
                 </div>
 
