@@ -70,7 +70,7 @@
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/o_rKNRoNz8s">
-                    <img class="img-responsive" loading="eager" src="assets/images/o_rKNRoNz8s.jpeg" srcset_placeholder="media/555/o_rKNRoNz8s.jpeg  1024w, media/555/o_rKNRoNz8s.jpeg 640w, media/225/o_rKNRoNz8s.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/img/o_rKNRoNz8s.jpeg" srcset_placeholder="media/555/o_rKNRoNz8s.jpeg  1024w, media/555/o_rKNRoNz8s.jpeg 640w, media/225/o_rKNRoNz8s.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
                     <a href="https://unsplash.com/photos/o_rKNRoNz8s">South Coast, Australia</a>
@@ -83,13 +83,12 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">
-                    <img class="img-responsive" loading="eager" src="assets/images/3.jpeg" srcset_placeholder="media/555/3.jpeg  1024w, media/555/3.jpeg 640w, media/225/3.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/img/MS7KD9Ti7FQ.jpeg" srcset_placeholder="media/555/MS7KD9Ti7FQ.jpeg  1024w, media/555/MS7KD9Ti7FQ.jpeg 640w, media/225/MS7KD9Ti7FQ.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">Project Title</a>
+                    <a href="https://unsplash.com/photos/MS7KD9Ti7FQ">Bali, Indonesia</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>The beach of Legian stretches 2 km, starting from the northernmost point of Kuta Beach. It's quite challenging to define the borders of these beaches, and they both offer very similar activities like surfing, partying, and shopping.</p>
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/1VYdx37vOGQ">
