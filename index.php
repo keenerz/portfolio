@@ -92,13 +92,12 @@
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/1VYdx37vOGQ">
-                    <img class="img-responsive" loading="eager" src="assets/images/4.jpeg" srcset_placeholder="media/555/4.jpeg  1024w, media/555/4.jpeg 640w, media/225/4.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/img/1VYdx37vOGQ.jpeg" srcset_placeholder="media/555/1VYdx37vOGQ.jpeg  1024w, media/555/1VYdx37vOGQ.jpeg 640w, media/225/1VYdx37vOGQ.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/1VYdx37vOGQ">Project Title</a>
+                    <a href="https://unsplash.com/photos/1VYdx37vOGQ">Nova Scotia, Canada</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>Martinique Beach Provincial Park is the longest sandy beach in Nova Scotia. Visitors can enjoy this 5-km crescent white-sand beach, with its open and wooded picnic areas located behind sand dunes. The beach is supervised during the months of July and August; change houses are available.</p>
             </div>
         </div>
 
