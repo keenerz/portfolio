@@ -30,13 +30,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About</a>
+                        <a href="#">Recent</a>
                     </li>
                     <li>
-                        <a href="#">Services</a>
-                    </li>
-                    <li class="active">
-                        <a href="#">Recent</a>
+                        <a href="#">Upload</a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
@@ -55,7 +52,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    <small>Recent Work</small>
+                    <small>Recent</small>
                 </h1>
             </div>
         </div>
@@ -64,23 +61,21 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/SYx3UCHZJlo">
-                    <img class="img-responsive" loading="eager" src="assets/images/1.jpeg" srcset_placeholder="media/555/1.jpeg  1024w, media/555/1.jpeg 640w, media/225/1.jpeg  320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/img/SYx3UCHZJlo.jpeg" srcset_placeholder="media/555/SYx3UCHZJlo.jpeg  1024w, media/555/SYx3UCHZJlo.jpeg 640w, media/225/SYx3UCHZJlo.jpeg  320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/SYx3UCHZJlo">Project Title</a>
+                    <a href="https://unsplash.com/photos/SYx3UCHZJlo">Santa Monica, United States</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>Located just west of Downtown Los Angeles, Santa Monica beach is an iconic example of the famed Southern California beaches. With few Los Angeles beach options offering both large expanses of beach, bike trails and nearby activities, Santa Monica Beach has exactly what you're looking for.</p>
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/o_rKNRoNz8s">
-                    <img class="img-responsive" loading="eager" src="assets/images/2.jpeg" srcset_placeholder="media/555/2.jpeg  1024w, media/555/2.jpeg 640w, media/225/2.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="eager" src="assets/images/o_rKNRoNz8s.jpeg" srcset_placeholder="media/555/o_rKNRoNz8s.jpeg  1024w, media/555/o_rKNRoNz8s.jpeg 640w, media/225/o_rKNRoNz8s.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/o_rKNRoNz8s">Project Title</a>
+                    <a href="https://unsplash.com/photos/o_rKNRoNz8s">South Coast, Australia</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>Stretching from Stanwell Park in the north to Bittangabee Bay in the south, the wild and wonderful southern shoreline delivers glittering ocean, dramatic rock formations and some of the whitest sands in the world. The entire length is part of the legendary Sydney to Melbourne Coastal Drive, but starting from Sydney you're on the jaw-dropping Grand Pacific Drive for 140km.</p>
             </div>
         </div>
 
