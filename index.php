@@ -109,7 +109,7 @@
                 <h3>
                     <a href="https://unsplash.com/photos/7yqyQQXgOT8">Luzon, Philippines</a>
                 </h3>
-                <p>Saud Beach is more popularly known as \"Pagudpud Beach.\" The picturesque 2-kilometer white sand beach is often featured in travel photos of Ilocos Norte, and is known for its pristine waters and beautiful coast lined with coconut palms.</p>
+                <p>Saud Beach is more popularly known as "Pagudpud Beach." The picturesque 2-kilometer white sand beach is often featured in travel photos of Ilocos Norte, and is known for its pristine waters and beautiful coast lined with coconut palms.</p>
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/PfK35Iw1JAo">
