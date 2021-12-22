@@ -104,13 +104,12 @@
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/7yqyQQXgOT8">
-                    <img class="img-responsive" loading="lazy" src="assets/images/5.jpeg" srcset_placeholder="media/555/5.jpeg  1024w, media/555/5.jpeg 640w, media/225/5.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="lazy" src="assets/img/7yqyQQXgOT8.jpeg" srcset_placeholder="media/555/7yqyQQXgOT8.jpeg  1024w, media/555/7yqyQQXgOT8.jpeg 640w, media/225/7yqyQQXgOT8.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/7yqyQQXgOT8">Project Title</a>
+                    <a href="https://unsplash.com/photos/7yqyQQXgOT8">Luzon, Philippines</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>Saud Beach is more popularly known as \"Pagudpud Beach.\" The picturesque 2-kilometer white sand beach is often featured in travel photos of Ilocos Norte, and is known for its pristine waters and beautiful coast lined with coconut palms.</p>
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/PfK35Iw1JAo">
