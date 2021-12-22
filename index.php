@@ -113,13 +113,12 @@
             </div>
             <div class="col-md-6 portfolio-item">
                 <a href="https://unsplash.com/photos/PfK35Iw1JAo">
-                    <img class="img-responsive" loading="lazy" src="assets/images/6.jpeg" srcset_placeholder="media/555/6.jpeg  1024w, media/555/6.jpeg 640w, media/225/6.jpeg 320w" width="555" height="370">
+                    <img class="img-responsive" loading="lazy" src="assets/img/PfK35Iw1JAo.jpeg" srcset_placeholder="media/555/PfK35Iw1JAo.jpeg  1024w, media/555/PfK35Iw1JAo.jpeg 640w, media/225/PfK35Iw1JAo.jpeg 320w" width="555" height="370">
                 </a>
                 <h3>
-                    <a href="https://unsplash.com/photos/PfK35Iw1JAo">Project Title</a>
+                    <a href="https://unsplash.com/photos/PfK35Iw1JAo">Cap de Ses Salines, Spain</a>
                 </h3>
-                <p>Upon yielding, kind sea subdue very seed sixth them lesser one lesser there earth days were multiply
-                    so sixth gathering fifth that man fowl made.</p>
+                <p>The Cap de Ses Salines is the southernmost point on Mallorca. When the weather is good, you can see the almost uninhabited island of Cabrera, which neighbours Mallorca to the south. There is also an attractive lighthouse present, which you can reach either by car or bicycle.</p>
             </div>
         </div>
 
