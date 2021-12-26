@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,12 +7,9 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
-
 <body class="vsc-initialized">
-
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target="#bs-example-navbar-collapse-1">
@@ -26,7 +22,6 @@
                     Portfolio
                 </a>
             </div>
-
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
@@ -42,13 +37,9 @@
                     </li>
                 </ul>
             </div>
-
         </div>
-
     </nav>
-
     <div class="container">
-
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
@@ -56,8 +47,6 @@
                 </h1>
             </div>
         </div>
-
-
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="/">
@@ -78,8 +67,6 @@
                 <p>Stretching from Stanwell Park in the north to Bittangabee Bay in the south, the wild and wonderful southern shoreline delivers glittering ocean, dramatic rock formations and some of the whitest sands in the world. The entire length is part of the legendary Sydney to Melbourne Coastal Drive, but starting from Sydney you're on the jaw-dropping Grand Pacific Drive for 140km.</p>
             </div>
         </div>
-
-
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="/">
@@ -100,7 +87,6 @@
                 <p>Martinique Beach Provincial Park is the longest sandy beach in Nova Scotia. Visitors can enjoy this 5-km crescent white-sand beach, with its open and wooded picnic areas located behind sand dunes. The beach is supervised during the months of July and August; change houses are available.</p>
             </div>
         </div>
-
         <div class="row">
             <div class="col-md-6 portfolio-item">
                 <a href="/">
@@ -121,37 +107,34 @@
                 <p>The Cap de Ses Salines is the southernmost point on Mallorca. When the weather is good, you can see the almost uninhabited island of Cabrera, which neighbours Mallorca to the south. There is also an attractive lighthouse present, which you can reach either by car or bicycle.</p>
             </div>
         </div>
-
         <div class="row text-center">
             <div class="col-lg-12">
                 <ul class="pagination">
                     <li>
-                        <a href="#">«</a>
+                        <a href="/">«</a>
                     </li>
                     <li class="active">
-                        <a href="#">1</a>
+                        <a href="/">1</a>
                     </li>
                     <li>
-                        <a href="#">2</a>
+                        <a href="/">2</a>
                     </li>
                     <li>
-                        <a href="#">3</a>
+                        <a href="/">3</a>
                     </li>
                     <li>
-                        <a href="#">4</a>
+                        <a href="/">4</a>
                     </li>
                     <li>
-                        <a href="#">5</a>
+                        <a href="/">5</a>
                     </li>
                     <li>
-                        <a href="#">»</a>
+                        <a href="/">»</a>
                     </li>
                 </ul>
             </div>
         </div>
-
     </div>
-
     <footer>
         <div class="footer-blurb">
             <div class="container">
@@ -178,7 +161,6 @@
                         <p><a class="btn btn-primary" href="/">More Stuff</a></p>
                     </div>
                 </div>
-
             </div>
         </div>
         <div class="copyright">
@@ -188,5 +170,4 @@
         </div>
     </footer>
 </body>
-
 </html>
