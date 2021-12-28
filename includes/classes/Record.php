@@ -23,7 +23,7 @@
         }
 
         public function create($unsplash_url, $path, $filename, $location, $description) {
-            $query = $this -> connection -> prepare("INSERT INTO images (unsplash_url, path, filename, location, description) VALUES (:unsplash_url, :path, :filename, :location, :description)");
+            $query = $this -> connection -> prepare("INSERT INTO records (unsplash_url, path, filename, location, description) VALUES (:unsplash_url, :path, :filename, :location, :description)");
             $query -> bindParam(":unsplash_url", $unsplash_url);
             $query -> bindParam(":path", $path);
             $query -> bindParam(":filename", $filename);
@@ -33,7 +33,7 @@
         }
 
         public function read() {
-            $query = $this -> connection -> prepare("SELECT * FROM images WHERE id = :id");
+            $query = $this -> connection -> prepare("SELECT * FROM records WHERE id = :id");
             $query -> bindParam(":id", $this -> data["id"]);
             $query -> execute();
             $data = $query -> fetch (PDO::FETCH_ASSOC);
@@ -41,7 +41,7 @@
         }
 
         public function update($unsplash_url, $location, $description) {
-            $query = $this -> connection -> prepare("UPDATE images SET unsplash_url = :unsplash_url, path = :path, filename = :filename, location = :location, description = :description WHERE id = :id");
+            $query = $this -> connection -> prepare("UPDATE records SET unsplash_url = :unsplash_url, path = :path, filename = :filename, location = :location, description = :description WHERE id = :id");
             $query -> bindParam(":unsplash_url", $unsplash_url);
             $query -> bindParam(":path", $this -> data["path"]);
             $query -> bindParam(":filename", $this -> data["filename"]);
@@ -52,7 +52,7 @@
         }
 
         public function delete() {
-            $query = $this -> connection -> prepare("DELETE FROM images WHERE id = :id");
+            $query = $this -> connection -> prepare("DELETE FROM records WHERE id = :id");
             $query -> bindParam(":id", $this -> data["id"]);
             return $query -> execute();
         }
