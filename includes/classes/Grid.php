@@ -12,7 +12,7 @@
         }
 
         public function create() {
-            $query = $this -> connection -> prepare("SELECT * FROM images");
+            $query = $this -> connection -> prepare("SELECT * FROM records");
             $query -> execute();
             $count = $query -> rowCount();
             $index = 0;
