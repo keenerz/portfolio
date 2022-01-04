@@ -6,13 +6,17 @@
     try {
     
         # specifies information to connect to database
-        $database = "website";
-        $host = "198.74.61.19";
-        $user = "littlefd";
-        $password = "StrongPassword1234!";
+        $database = "#database_placeholder#";
+        $host = "#host_placeholder#";
+        $port = "3306";
+        $character_set = "utf8";
+        $user = "#user_placeholder#";
+        $password = "#password_placeholder#";
+        
 
         # connects to database
-        $connection = new PDO("mysql:dbname=$database;host=$host", $username, $password);
+        $connection = new PDO("mysql:dbname=$database;host=$host;port=$port;charset=$character_set", $username, $password);
+        $connection -> setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
         $connection -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
     
     # displays error messages that occur durring attempt
