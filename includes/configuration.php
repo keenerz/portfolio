@@ -12,7 +12,6 @@
         $character_set = "utf8";
         $user = "#user_placeholder#";
         $password = "#password_placeholder#";
-        
 
         # connects to database
         $connection = new PDO("mysql:dbname=$database;host=$host;port=$port;charset=$character_set", $username, $password);
