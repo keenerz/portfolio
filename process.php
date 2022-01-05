@@ -1,4 +1,6 @@
 <?php 
+
+    require_once("includes/classes/Encryption.php");
     require_once("includes/classes/Processor.php"); 
     require_once("includes/classes/Record.php"); 
     require_once("includes/configuration.php");
