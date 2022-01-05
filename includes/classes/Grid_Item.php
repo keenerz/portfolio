@@ -1,5 +1,7 @@
 <?php
 
+    require_once("includes/classes/Encryption.php");
+
     class Grid_Item {
 
         private $record;
