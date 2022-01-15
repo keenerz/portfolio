@@ -1,6 +1,6 @@
-<?php
 
-    require_once("/etc/mysql/credentials.php");
+   
+<?php
 
     date_default_timezone_set("America/Los_Angeles");
 
@@ -8,18 +8,15 @@
     try {
     
         # specifies information to connect to database
-        $database = MYSQL_DATABASE;
-        $host = MYSQL_HOST;
-        $port = MYSQL_PORT;
-        $charset = MYSQL_CHARACTER_SET;
-        $user = MYSQL_USER;
-        $password = MYSQL_PASSWORD;
-        $options = array(
-            #pdo_options_placeholder#
-        );
+        $database = "#database_placeholder#";
+        $host = "#host_placeholder#";
+        $port = "3306";
+        $character_set = "utf8";
+        $user = "#user_placeholder#";
+        $password = "#password_placeholder#";
 
         # connects to database
-        $connection = new PDO("mysql:dbname=$database;host=$host;port=$port;charset=$charset", $user, $password, $options);
+        $connection = new PDO("mysql:dbname=$database;host=$host;port=$port;charset=$character_set", $username, $password);
         $connection -> setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
         $connection -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
     
