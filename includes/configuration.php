@@ -1,6 +1,6 @@
 <?php
 
-    require_once("credentials.php");
+    require_once("/etc/mysql/credentials.php");
 
     date_default_timezone_set("America/Los_Angeles");
 
