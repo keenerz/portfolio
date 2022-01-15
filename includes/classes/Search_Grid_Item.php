@@ -8,7 +8,7 @@
             $this -> url = $url . "?fit=crop&h=360";
         }
 
-        private function create() {
+        public function create() {
             $url = $this -> url;
             return "<div class='col-md-4 portfolio-item'>
                         <img class='' loading='lazy' src='$url' style='object-fit: cover; width: 360px; height: 360px'>
