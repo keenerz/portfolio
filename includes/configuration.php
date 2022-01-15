@@ -11,7 +11,7 @@
         $database = MYSQL_DATABASE;
         $host = MYSQL_HOST;
         $port = MYSQL_PORT;
-        $charset = MYSQL_CHARSET;
+        $charset = MYSQL_CHARACTER_SET;
         $user = MYSQL_USER;
         $password = MYSQL_PASSWORD;
         $options = array(
