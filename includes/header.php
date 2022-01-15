@@ -31,6 +31,9 @@
                     <li>
                         <a href="upload.php">Upload</a>
                     </li>
+                    <li>
+                        <a href="search.php">Search</a>
+                    </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
