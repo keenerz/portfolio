@@ -20,6 +20,12 @@
         return $images;
     }
 
+    function get_input_value($name) {
+        if(isset($_POST[$name])) {
+            echo $_POST[$name];
+        }
+    }
+
 ?>
 
         <div class="row">
@@ -33,7 +39,7 @@
             <form action="search.php" method="POST" name="search_form" enctype="multipart/form-data">
                 <div class="form-group">
                     <label>Keywords:</label>
-                    <input type="text" class="form-control" name="search_input" value="<?php echo $keywords; ?>">
+                    <input type="text" class="form-control" name="search_input" value="<?php get_input_value("search_input"); ?>">
                 </div>
                 <div class="form-group" style="display: inline-flex;">
                     <button type="submit" class="btn btn-primary" name="search_button" value="">Seach</button>
