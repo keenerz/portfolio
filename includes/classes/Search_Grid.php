@@ -4,15 +4,18 @@
 
     class Search_Grid {
 
-        public function __construct() {
+        private $urls;
+
+        public function __construct($urls) {
+            $this -> urls = $urls;
         }
 
-        public function create($urls) {
-            $count = count($urls);
+        public function create() {
+            $count = count($this -> urls);
             $index = 0;
             $html = "";
             $html .= "<row>";
-            foreach ($urls as $url) {
+            foreach ($this -> urls as $url) {
                 $item = new Search_Grid_Item($url);
                 $html .= $item-> create();
                 $index ++;
