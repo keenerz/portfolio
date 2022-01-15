@@ -7,8 +7,8 @@
         $images = get_recent_images($keywords);
         $images = json_decode($images);
         $images = array_slice($images, 0, 9);
-        $grid = new Search_Grid();
-        $html = $grid -> create($images);
+        $grid = new Search_Grid($images);
+        $html = $grid -> create();
     }
 
     function get_recent_images($keywords) {
