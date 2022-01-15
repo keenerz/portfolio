@@ -1,5 +1,5 @@
 <?php
-    require_once("includes/classes/Grid.php");
+    require_once("includes/classes/Recent_Grid.php");
     require_once("includes/configuration.php");
     require_once("includes/header.php");
 ?>
@@ -12,7 +12,7 @@
                 </div>
             </div>
             <?php
-                $grid = new Grid($connection);
+                $grid = new Recent_Grid($connection);
                 echo $grid -> create();
             ?>
         </div>
