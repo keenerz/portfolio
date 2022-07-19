@@ -1,6 +1,6 @@
         <div class="copyright">
             <div class="container">
-                <p>Copyright © Example.com 2021</p>
+                <p>Copyright © Keenan Kan 2022</p>
             </div>
         </div>
     </body>
